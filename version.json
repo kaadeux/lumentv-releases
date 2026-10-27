@@ -1,7 +1,7 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.2.5",
+    "versionCode":  16,
+    "versionName":  "1.3.3",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "5f34e960aed2721bc24c68450259c1d0fbc19e3c9f754846ec9a7bfef20fca74",
-    "notes":  "Profil en ligne (favoris, historique et réglages partagés), avertissement si l\u0027abonnement est déjà utilisé sur un autre écran, rubrique Mises à jour."
+    "sha256":  "df33026f6617509f01652dd81eb22defce8c451daf0e40d91550056f4379f262",
+    "notes":  "Calendrier sportif avec filtre (sport, compétition, club), chaînes précises, boutons passer le récap/l\u0027intro, historique regroupé par série, tout en français."
 }
