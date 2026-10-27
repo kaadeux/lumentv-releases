@@ -1,7 +1,7 @@
 {
-    "versionCode":  9,
-    "versionName":  "1.2.6-dev",
+    "versionCode":  10,
+    "versionName":  "1.2.7-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "5e51ba8b0f61c554b510c95ff8f7a7a38da31bffaf0f9b96f0508cb07aa19565",
-    "notes":  "Historique : films et séries uniquement, une ligne par série."
+    "sha256":  "d37302bf0ac3d9bdc074792d26fd5d13f9aca7013b4b4854bf306bc84572f108",
+    "notes":  "Sports : calendrier officiel (matchs en cours et à venir, sans rediffusions)."
 }
