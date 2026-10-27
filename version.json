@@ -1,7 +1,7 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.2.3",
+    "versionCode":  8,
+    "versionName":  "1.2.5",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "fc36dc06fe50287828f1bdef992ccfa0396ffb607dce1e524896b0f29b1598ae",
-    "notes":  "Nouvelle rubrique « Mises à jour » dans les Paramètres."
+    "sha256":  "5f34e960aed2721bc24c68450259c1d0fbc19e3c9f754846ec9a7bfef20fca74",
+    "notes":  "Profil en ligne (favoris, historique et réglages partagés), avertissement si l\u0027abonnement est déjà utilisé sur un autre écran, rubrique Mises à jour."
 }
