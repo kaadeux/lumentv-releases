@@ -1,7 +1,7 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.2.1",
-    "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "8ed6d016ee4bae85635c1957f4a98744a8d8a55fc71eac25705085ebea4f4294",
-    "notes":  "Corrections mineures."
+    "versionCode":  5,
+    "versionName":  "1.2.2-dev",
+    "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
+    "sha256":  "601624868a2677cec4af584f8fe501f0b794dc0c08395fdcfadffd22fab5ae49",
+    "notes":  "Première version du canal de test."
 }
