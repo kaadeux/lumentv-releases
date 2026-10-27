@@ -1,7 +1,7 @@
 {
-    "versionCode":  16,
-    "versionName":  "1.3.3",
+    "versionCode":  18,
+    "versionName":  "1.3.5",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "df33026f6617509f01652dd81eb22defce8c451daf0e40d91550056f4379f262",
-    "notes":  "Calendrier sportif avec filtre (sport, compétition, club), chaînes précises, boutons passer le récap/l\u0027intro, historique regroupé par série, tout en français."
+    "sha256":  "5ec982b04d10fd7047947877303355bc59c7ce186b61bb4bc2fc07c7435e8ed6",
+    "notes":  "Marquer un épisode ou une saison comme vu ; confirmation avant de retirer une entrée de l\u0027historique."
 }
