@@ -1,7 +1,7 @@
 {
-    "versionCode":  11,
-    "versionName":  "1.2.8-dev",
+    "versionCode":  12,
+    "versionName":  "1.2.9-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "09beb27d67243859da3ab676ae12d2d20acdd30ef5aa0dbc58b49dd7baccbfb8",
-    "notes":  "Sports : calendrier officiel comme sur PC (dont Pro D2). Séries : boutons Passer le récap / Passer l\u0027intro distincts."
+    "sha256":  "46b3ef75244758c0c11e7385a411b098f55c532bf41fbbac67e50f9a0c52d5e8",
+    "notes":  "Sports : calendrier officiel comme sur PC (dont Pro D2). Séries : Passer le récap / Passer l\u0027intro distincts."
 }
