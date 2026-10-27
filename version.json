@@ -1,7 +1,7 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.2.4-dev",
+    "versionCode":  8,
+    "versionName":  "1.2.5-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "341b0f47c3f814deee21bf1f3d00011c401064ea84ca64c3731328ae3d69e34c",
-    "notes":  "Profil en ligne : favoris, historique et réglages partagés avec le PC."
+    "sha256":  "543b3d61fc5934a147234ef44eae38250cb4d7a0bfca23e77847e18f5eaa949b",
+    "notes":  "Avertissement si l\u0027abonnement est déjà en cours de lecture sur un autre appareil."
 }
