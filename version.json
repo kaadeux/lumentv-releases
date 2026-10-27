@@ -1,7 +1,7 @@
 {
-    "versionCode":  13,
-    "versionName":  "1.3.0-dev",
+    "versionCode":  14,
+    "versionName":  "1.3.1-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "f2da81e5585a275fd0a866b3c24323c63a2461ab7251142656c920ab7c70ff6b",
+    "sha256":  "e504a9a67d39d9392be8eaee6198e7835961278c75f1e27798493b95afc9271a",
     "notes":  "Sports : sport, compétition, journée et stade ; chaîne française exacte (Ligue 1+ 2, Canal+ Sport 360...)."
 }
