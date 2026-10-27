@@ -1,7 +1,7 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.2.1",
+    "versionCode":  6,
+    "versionName":  "1.2.3",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "8ed6d016ee4bae85635c1957f4a98744a8d8a55fc71eac25705085ebea4f4294",
-    "notes":  "Corrections mineures."
+    "sha256":  "fc36dc06fe50287828f1bdef992ccfa0396ffb607dce1e524896b0f29b1598ae",
+    "notes":  "Nouvelle rubrique « Mises à jour » dans les Paramètres."
 }
