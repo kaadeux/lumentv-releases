@@ -1,7 +1,7 @@
 {
-    "versionCode":  26,
-    "versionName":  "1.4.3-dev",
+    "versionCode":  27,
+    "versionName":  "1.4.4-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "2e36313cd05a6192cbef37bd28508975c0ecc45ed2ee056f3a65395e38c717ff",
-    "notes":  "Sports : tous les matchs de Pro D2 et les bons logos du Top 14"
+    "sha256":  "0577e0675bb043a652c9397451c8d64cdb83bd1c8155f9a2bda688bbb35b43b8",
+    "notes":  "Sports : tous les matchs de Pro D2, bons logos du Top 14, logos visibles à côté des noms longs"
 }
