@@ -1,7 +1,7 @@
 {
-    "versionCode":  22,
-    "versionName":  "1.3.9-dev",
+    "versionCode":  23,
+    "versionName":  "1.4.0-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "e61e4112db4263387d543c41d62990aac5559fbc6eba3895376274d05477bb33",
-    "notes":  "Centre sportif : les filtres s\u0027appliquent sport par sport."
+    "sha256":  "aefccfa6ad37f4efe3d0d6ac480b67c63776b5c30278e315839d66e985c2816b",
+    "notes":  "Passer le récap, l\u0027intro et épisode suivant sur beaucoup plus d\u0027épisodes."
 }
