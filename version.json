@@ -1,7 +1,7 @@
 {
-    "versionCode":  25,
-    "versionName":  "1.4.2",
+    "versionCode":  28,
+    "versionName":  "1.4.5",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "7913bf48f90be98203a237275347a4dea404417a267743e6b7a658b02f09274b",
-    "notes":  "Lecture des films et séries plus stable."
+    "sha256":  "1db9ce7b480c2b969105c67c12fba4cd4b76921076cd7a112827c2b565ca0623",
+    "notes":  "Sports : tous les matchs de Pro D2, bons logos, chaînes accessibles 1 h avant le match"
 }
