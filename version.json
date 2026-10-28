@@ -1,7 +1,7 @@
 {
-    "versionCode":  24,
-    "versionName":  "1.4.1",
+    "versionCode":  25,
+    "versionName":  "1.4.2",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "71f2c797f82cd30114169c0cb878e6b76ff79dd4953a075bee55675f35356361",
-    "notes":  "Passer le récap, l\u0027intro et épisode suivant sur beaucoup plus d\u0027épisodes."
+    "sha256":  "7913bf48f90be98203a237275347a4dea404417a267743e6b7a658b02f09274b",
+    "notes":  "Lecture des films et séries plus stable."
 }
