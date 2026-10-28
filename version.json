@@ -1,7 +1,7 @@
 {
-    "versionCode":  18,
-    "versionName":  "1.3.5",
+    "versionCode":  19,
+    "versionName":  "1.3.6",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "5ec982b04d10fd7047947877303355bc59c7ce186b61bb4bc2fc07c7435e8ed6",
-    "notes":  "Marquer un épisode ou une saison comme vu ; confirmation avant de retirer une entrée de l\u0027historique."
+    "sha256":  "56991f4a618b5debe592b4d043ed2ca2de627b2c0259cbd3453955f7be23b4db",
+    "notes":  "Le direct se reconnecte tout seul quand le signal est perdu ; centre sportif plus rapide."
 }
