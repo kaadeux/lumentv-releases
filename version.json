@@ -1,7 +1,7 @@
 {
-    "versionCode":  19,
-    "versionName":  "1.3.6",
+    "versionCode":  20,
+    "versionName":  "1.3.7",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "56991f4a618b5debe592b4d043ed2ca2de627b2c0259cbd3453955f7be23b4db",
-    "notes":  "Le direct se reconnecte tout seul quand le signal est perdu ; centre sportif plus rapide."
+    "sha256":  "242d286c24d73fe52668b719e3c7fee38820c1e70be7e2d6ee5ca089f2e216d6",
+    "notes":  "Appui long : le menu ne valide plus tout seul le premier choix."
 }
