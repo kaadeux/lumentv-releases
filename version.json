@@ -1,7 +1,7 @@
 {
-    "versionCode":  20,
-    "versionName":  "1.3.7-dev",
+    "versionCode":  21,
+    "versionName":  "1.3.8-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "905f495e7cc35ea6244466a6c134f00acfb3c6375563a3575b13d2571f84964a",
-    "notes":  "Appui long : le menu ne valide plus tout seul le premier choix."
+    "sha256":  "e8d86a6c76f321e756cf4651b14d4db50dc1baf01e8a767f8da967b4af74d005",
+    "notes":  "Centre sportif : tous les matchs s\u0027affichent, période réglable (3, 7 ou 14 jours)."
 }
