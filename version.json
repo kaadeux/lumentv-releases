@@ -1,7 +1,7 @@
 {
-    "versionCode":  34,
-    "versionName":  "1.5.1",
+    "versionCode":  35,
+    "versionName":  "1.5.2",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "004184e8c91955c5c78e9600b7e0be7dd58ad15cd3fc304039d14161ee88bbdf",
-    "notes":  "Nouveau : « Reprendre la lecture » en haut de Films et Séries (appui long pour retirer)."
+    "sha256":  "9e2aee0218e6106ecce1213895bd056382acc451a81d48aa4d2fbdced05a239e",
+    "notes":  "Sports : score en direct avec la minute et la mi-temps, filtres en menus, sports dans un nouvel ordre."
 }
