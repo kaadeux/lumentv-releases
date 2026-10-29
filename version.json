@@ -1,7 +1,7 @@
 {
-    "versionCode":  28,
-    "versionName":  "1.4.5-dev",
+    "versionCode":  29,
+    "versionName":  "1.4.6-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "4f19cb027c4abe3a84580a3951238036739767aeadb0ecb25982f5b057585985",
-    "notes":  "Sports : chaînes accessibles 1 h avant le match"
+    "sha256":  "603fa53a6681755258d35ad87a46730a2ea49f1f7a530c18eefd3b80053ba55a",
+    "notes":  "Image plus fluide : l\u0027écran suit la fréquence de la vidéo"
 }
