@@ -1,7 +1,7 @@
 {
-    "versionCode":  31,
-    "versionName":  "1.4.8-dev",
+    "versionCode":  32,
+    "versionName":  "1.4.9-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "4e822b3cbf414742c1809822581f2f33756580475176942faa02c790eaec9a3e",
-    "notes":  "Confidentialité : DNS chiffré et HTTPS quand le fournisseur le permet"
+    "sha256":  "4e94ea100f788d19832ee11b2aaa490f8eb7e44e0b14c0babd1bbfe7e9746015",
+    "notes":  "Confidentialité : retour en HTTP si un serveur refuse une vidéo en HTTPS"
 }
