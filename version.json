@@ -1,7 +1,7 @@
 {
-    "versionCode":  32,
-    "versionName":  "1.4.9",
+    "versionCode":  33,
+    "versionName":  "1.5.0",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "02083e786abb40ad831b6d52294a8dbc9a881ac6be87b32a6d40ae12a31d8085",
-    "notes":  "Confidentialité : DNS chiffré et HTTPS quand le fournisseur le permet"
+    "sha256":  "bc3d6953678a6862320da85c59c636da0a6caf7479b199ca52a927f193df1695",
+    "notes":  "Nouveau : Lumen TV sur téléphone Android (même appli, interface tactile). Sport : équipes sur une ligne."
 }
