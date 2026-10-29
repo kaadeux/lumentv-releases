@@ -1,7 +1,7 @@
 {
-    "versionCode":  29,
-    "versionName":  "1.4.6-dev",
+    "versionCode":  30,
+    "versionName":  "1.4.7-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "603fa53a6681755258d35ad87a46730a2ea49f1f7a530c18eefd3b80053ba55a",
-    "notes":  "Image plus fluide : l\u0027écran suit la fréquence de la vidéo"
+    "sha256":  "2474b3bd48aee14dc5e6932705425fd76f0d8a93dc63679f88d2820ab6f48139",
+    "notes":  "Image plus fluide : l\u0027écran suit la fréquence de la vidéo (chaînes, films, séries)"
 }
