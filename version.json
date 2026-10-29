@@ -1,7 +1,7 @@
 {
-    "versionCode":  32,
-    "versionName":  "1.4.9-dev",
+    "versionCode":  33,
+    "versionName":  "1.5.0-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "4e94ea100f788d19832ee11b2aaa490f8eb7e44e0b14c0babd1bbfe7e9746015",
-    "notes":  "Confidentialité : retour en HTTP si un serveur refuse une vidéo en HTTPS"
+    "sha256":  "5f1d1bde7b1e10197c3bcdceaa12566de91388f94256581a529106a6bce378be",
+    "notes":  "Nouveau : version téléphone Android (même app, interface tactile)"
 }
