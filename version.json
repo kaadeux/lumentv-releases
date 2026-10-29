@@ -1,7 +1,7 @@
 {
-    "versionCode":  33,
-    "versionName":  "1.5.0",
+    "versionCode":  34,
+    "versionName":  "1.5.1",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "bc3d6953678a6862320da85c59c636da0a6caf7479b199ca52a927f193df1695",
-    "notes":  "Nouveau : Lumen TV sur téléphone Android (même appli, interface tactile). Sport : équipes sur une ligne."
+    "sha256":  "004184e8c91955c5c78e9600b7e0be7dd58ad15cd3fc304039d14161ee88bbdf",
+    "notes":  "Nouveau : « Reprendre la lecture » en haut de Films et Séries (appui long pour retirer)."
 }
