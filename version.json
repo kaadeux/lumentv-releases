@@ -1,7 +1,7 @@
 {
-    "versionCode":  36,
-    "versionName":  "1.5.3",
+    "versionCode":  38,
+    "versionName":  "1.5.5",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "95b9ac9308234f7febe677acf8f6558b75a31b79dd5f0298f3e00c70f60eada4",
-    "notes":  "Direct : bouton « Revenir au direct » après une pause ou une coupure ; la touche lecture/pause met les chaînes en pause."
+    "sha256":  "bc6efc3fa9646b188b024c425c3c39d3078408ebb65fd399d7e71fee8d913fd7",
+    "notes":  "Films et Séries : Nouveautés, Les mieux notés, « Parce que vous avez regardé… », séries ajoutées récemment ; navigation à la télécommande corrigée (retour à l\u0027endroit où on était)."
 }
