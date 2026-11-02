@@ -1,7 +1,7 @@
 {
-    "versionCode":  37,
-    "versionName":  "1.5.4-dev",
+    "versionCode":  38,
+    "versionName":  "1.5.5-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "1afa7be54cbb158d4a2a56b9faaa58944985554f2ac30efb4cb1ed5523112a4d",
-    "notes":  "Films et Séries : rangées Nouveautés, Les mieux notés et « Parce que vous avez regardé… » ; catégorie « Ajoutées récemment » pour les séries."
+    "sha256":  "438d7c9e665d3fbb25cf51f73d934551407a6fcdb43563e14fbfa00ffc5b3d82",
+    "notes":  "Télécommande : retour sur la catégorie ou le groupe choisi, et sur l\u0027affiche après une fiche."
 }
