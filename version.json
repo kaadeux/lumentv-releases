@@ -1,7 +1,7 @@
 {
-    "versionCode":  36,
-    "versionName":  "1.5.3-dev",
+    "versionCode":  37,
+    "versionName":  "1.5.4-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "67c04c1dbaaba9424f7bf7f13f50f5c994dc7db0b0768427afef0657b5b9a775",
-    "notes":  "Retour : on revient où on en était dans Films, Séries, Recherche et Favoris."
+    "sha256":  "1afa7be54cbb158d4a2a56b9faaa58944985554f2ac30efb4cb1ed5523112a4d",
+    "notes":  "Films et Séries : rangées Nouveautés, Les mieux notés et « Parce que vous avez regardé… » ; catégorie « Ajoutées récemment » pour les séries."
 }
