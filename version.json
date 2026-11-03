@@ -1,7 +1,7 @@
 {
-    "versionCode":  41,
-    "versionName":  "2.0.1-dev",
+    "versionCode":  42,
+    "versionName":  "2.0.2-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "1dd0d858e2f2b0666739d563591dc814ddb0252c619fe4448233d4004519b98a",
-    "notes":  "Logos officiels des titres dans les bannières et les fiches."
+    "sha256":  "71befd601976704fa81255b479bc746cb3c2973fdc0e265a62f772ba268bbf99",
+    "notes":  "Notes TMDB, tendances et recommandations selon ce que vous regardez, aperçus du direct plus rapides, navigation corrigée."
 }
