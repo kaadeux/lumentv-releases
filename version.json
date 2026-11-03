@@ -1,7 +1,7 @@
 {
-    "versionCode":  42,
-    "versionName":  "2.0.2-dev",
+    "versionCode":  43,
+    "versionName":  "2.1.0-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "71befd601976704fa81255b479bc746cb3c2973fdc0e265a62f772ba268bbf99",
-    "notes":  "Notes TMDB, tendances et recommandations selon ce que vous regardez, aperçus du direct plus rapides, navigation corrigée."
+    "sha256":  "61a92531cac696e89605fa427580c5d5780623942927cf983780a702dc5e1950",
+    "notes":  "Lumen TV 2.1 : catégories TMDB (genres, plateformes), notes personnelles, recommandations selon vos goûts, recherche tolérante, navigation corrigée."
 }
