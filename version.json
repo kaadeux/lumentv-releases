@@ -1,7 +1,7 @@
 {
-    "versionCode":  40,
-    "versionName":  "2.0.0-dev",
+    "versionCode":  41,
+    "versionName":  "2.0.1-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "b19504f0c303c73405bbc4ddb055160c8c39ea7d992e25644a8e933c83b9e393",
-    "notes":  "Lumen TV 2 : nouvelle interface, aperçu du direct, choix de la version, qualité automatique, barre de retard, état du réseau, reprendre un programme au début."
+    "sha256":  "1dd0d858e2f2b0666739d563591dc814ddb0252c619fe4448233d4004519b98a",
+    "notes":  "Logos officiels des titres dans les bannières et les fiches."
 }
