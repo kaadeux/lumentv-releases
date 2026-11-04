@@ -1,7 +1,7 @@
 {
-    "versionCode":  62,
-    "versionName":  "2.4.6",
+    "versionCode":  63,
+    "versionName":  "2.4.7",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "08dff655314910b50831e304f8ef84c0a829ba13c9721c47f9c36fd9a4d04c99",
-    "notes":  "Films et Séries : au retour d\u0027une fiche, on revient sur le même poster."
+    "sha256":  "94edbcf58ae772d1c053d68eb73db966dd21b65a64e475f5f2466f3f7326e13e",
+    "notes":  "Notes en étoiles partagées avec le PC, copies arabes masquées partout, retour d\u0027une fiche sur le même poster."
 }
