@@ -1,7 +1,7 @@
 {
-    "versionCode":  52,
-    "versionName":  "2.3.0-dev",
+    "versionCode":  53,
+    "versionName":  "2.3.1-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "8ebbb24e36a0556047b4db8db6b8281e0d026dcd6d3e8d61246068cd5782f224",
-    "notes":  "Navigation Films/Séries plus fluide, lecteurs qui s\u0027ouvrent sans attendre, TMDB et sports plus robustes quand les serveurs saturent."
+    "sha256":  "88fce925862744b5999e3abcbd99f42e7ba0b232f4b77a39f8878140b02fe198",
+    "notes":  "Films/Séries : décaler vers la droite ne fait plus descendre la ligne."
 }
