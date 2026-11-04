@@ -1,7 +1,7 @@
 {
-    "versionCode":  46,
-    "versionName":  "2.1.3-dev",
+    "versionCode":  47,
+    "versionName":  "2.2.0-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "76a3217079e68e010355f704a1e3486dd871cb78df607be09d19bb08422a7aeb",
-    "notes":  "Direct : une seule barre de progression, qui montre le retard."
+    "sha256":  "0a84f4428fea152602fd60ae5e201328489afd4120443738240dc2fe735cbc7a",
+    "notes":  "Nouvelles barres de navigation style verre, avec animations."
 }
