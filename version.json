@@ -1,7 +1,7 @@
 {
-    "versionCode":  49,
-    "versionName":  "2.2.2-dev",
+    "versionCode":  50,
+    "versionName":  "2.2.3-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "f7254346874bcbd93fc22f4bb6c120853778e2666928f4c563b066901e869684",
-    "notes":  "Sports : chaînes françaises d\u0027après le guide TV français."
+    "sha256":  "ca06f9c77d34b53f7d92b27bb4fb24d1db416463e82e3977c24d4af5af847e8a",
+    "notes":  "Sports : la bonne chaîne française pour chaque match (guide TV officiel)."
 }
