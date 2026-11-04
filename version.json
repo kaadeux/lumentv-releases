@@ -1,7 +1,7 @@
 {
-    "versionCode":  59,
-    "versionName":  "2.4.3-dev",
+    "versionCode":  60,
+    "versionName":  "2.4.4-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "716a191ad071624fc1a33c5fba0db529ffd7a3a3c1df38a14bd89535dfe5b51d",
-    "notes":  "Films/Séries : résumé, acteurs et réalisateurs/créateurs depuis TMDB."
+    "sha256":  "e8f6522baff231804e8a2d914ef01d4d4abbf9fc7153a2a13781cb04f035cf2a",
+    "notes":  "TV : sur la fiche d\u0027une série, créateurs et acteurs lisibles en entier."
 }
