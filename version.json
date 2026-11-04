@@ -1,7 +1,7 @@
 {
-    "versionCode":  39,
-    "versionName":  "1.5.6",
+    "versionCode":  61,
+    "versionName":  "2.4.5",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "2c67ed2eab92698a9810b2efd462168033f3f9c97a04c7ca4f5ab9f94167231c",
-    "notes":  "Changer de catégorie remet les affiches en haut ; Films et Séries : Nouveautés, Les mieux notés, séries ajoutées récemment ; navigation à la télécommande corrigée."
+    "sha256":  "bf3cb0f445e7f35bb164b464ffacb6d0dfffdc663dff8ae709d09ba6c3408211",
+    "notes":  "Nouvelle interface façon plateforme de streaming (TV et téléphone) : accueil Films/Séries avec bandeau et rangées TMDB (tendances, nouveautés, plateformes, recommandations), notes, résumés et acteurs, recherche par acteur et réalisateur, navigation plus fluide."
 }
