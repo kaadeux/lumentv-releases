@@ -1,7 +1,7 @@
 {
-    "versionCode":  60,
-    "versionName":  "2.4.4-dev",
+    "versionCode":  61,
+    "versionName":  "2.4.5-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "e8f6522baff231804e8a2d914ef01d4d4abbf9fc7153a2a13781cb04f035cf2a",
-    "notes":  "TV : sur la fiche d\u0027une série, créateurs et acteurs lisibles en entier."
+    "sha256":  "1af21f0709bdba0251e801c84cefdbcf29f6252fb8825172d275b21818552f5b",
+    "notes":  "Recherche : acteurs, réalisateurs et créateurs, avec leurs films et séries disponibles."
 }
