@@ -1,7 +1,7 @@
 {
-    "versionCode":  51,
-    "versionName":  "2.2.4-dev",
+    "versionCode":  52,
+    "versionName":  "2.3.0-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "926c63ee5f112aa198bbe1c25dc70c4556693f375a09323facc65b6a74cb50d1",
-    "notes":  "Films et Séries : la bannière garde sa taille, le titre de la rangée reste visible."
+    "sha256":  "8ebbb24e36a0556047b4db8db6b8281e0d026dcd6d3e8d61246068cd5782f224",
+    "notes":  "Navigation Films/Séries plus fluide, lecteurs qui s\u0027ouvrent sans attendre, TMDB et sports plus robustes quand les serveurs saturent."
 }
