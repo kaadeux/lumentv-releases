@@ -1,7 +1,7 @@
 {
-    "versionCode":  61,
-    "versionName":  "2.4.5",
+    "versionCode":  62,
+    "versionName":  "2.4.6",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "bf3cb0f445e7f35bb164b464ffacb6d0dfffdc663dff8ae709d09ba6c3408211",
-    "notes":  "Nouvelle interface façon plateforme de streaming (TV et téléphone) : accueil Films/Séries avec bandeau et rangées TMDB (tendances, nouveautés, plateformes, recommandations), notes, résumés et acteurs, recherche par acteur et réalisateur, navigation plus fluide."
+    "sha256":  "08dff655314910b50831e304f8ef84c0a829ba13c9721c47f9c36fd9a4d04c99",
+    "notes":  "Films et Séries : au retour d\u0027une fiche, on revient sur le même poster."
 }
