@@ -1,7 +1,7 @@
 {
-    "versionCode":  44,
-    "versionName":  "2.1.1-dev",
+    "versionCode":  45,
+    "versionName":  "2.1.2-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "326ab96ab822b40c406e26d5eb5660d37338108b12d4b97a2a27fc2775851dc4",
-    "notes":  "Recherche : copies françaises d\u0027abord ; direct : OK met en pause ; page série corrigée."
+    "sha256":  "2deeec65a350d656bf41f034e2ff721c69e71952774ee0710297fe083901d0b2",
+    "notes":  "Navigation à la télécommande corrigée dans Films et Séries ; pause en direct avec OK."
 }
