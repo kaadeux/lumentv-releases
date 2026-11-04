@@ -1,7 +1,7 @@
 {
-    "versionCode":  63,
-    "versionName":  "2.4.7",
+    "versionCode":  64,
+    "versionName":  "2.4.8",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "94edbcf58ae772d1c053d68eb73db966dd21b65a64e475f5f2466f3f7326e13e",
-    "notes":  "Notes en étoiles partagées avec le PC, copies arabes masquées partout, retour d\u0027une fiche sur le même poster."
+    "sha256":  "d986c5e7af2cce7400ee22237680e87dd0d68677bb27b0be198f56bcec0b0b51",
+    "notes":  "Reprendre la lecture ouvre la fiche, séries terminées retirées partout, sous-titres français forcés par défaut."
 }
