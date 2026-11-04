@@ -1,7 +1,7 @@
 {
-    "versionCode":  47,
-    "versionName":  "2.2.0-dev",
+    "versionCode":  48,
+    "versionName":  "2.2.1-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "0a84f4428fea152602fd60ae5e201328489afd4120443738240dc2fe735cbc7a",
-    "notes":  "Nouvelles barres de navigation style verre, avec animations."
+    "sha256":  "ec8b760807d1326c09f16df8f8cfcc4770ffe0654f1e819add7f97f457fc55e2",
+    "notes":  "Sports : uniquement les chaînes en français."
 }
