@@ -1,7 +1,7 @@
 {
-    "versionCode":  65,
-    "versionName":  "2.4.9",
+    "versionCode":  66,
+    "versionName":  "2.5.0",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "f381e500932faf56134e22a07af050698541e4f398628bb3d3f4ca9523f54d41",
-    "notes":  "Cache plus petit : images 60 Mo, TMDB 20 Mo."
+    "sha256":  "e7d3ad138a1f912b85fb735aa48193de7bbfe086d008865c4af5397687f21c79",
+    "notes":  "Onglets Films et Séries ouverts en haut, affiches manquantes trouvées sur TMDB."
 }
