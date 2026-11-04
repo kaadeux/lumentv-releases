@@ -1,7 +1,7 @@
 {
-    "versionCode":  64,
-    "versionName":  "2.4.8-dev",
+    "versionCode":  65,
+    "versionName":  "2.4.9-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "b67faec1bd38fd9b64dd78ee0c345b38f6247d90c98045a09883abb6f01a62a0",
-    "notes":  "Reprendre la lecture ouvre la fiche, séries terminées retirées partout, sous-titres français forcés par défaut."
+    "sha256":  "62eebdfb581d38c9ba5d3c13b24f2f46dbef84f46f805f7d58bff1b34987fc2e",
+    "notes":  "Cache plus petit : images 60 Mo, TMDB 20 Mo."
 }
