@@ -1,7 +1,7 @@
 {
-    "versionCode":  57,
-    "versionName":  "2.4.1-dev",
+    "versionCode":  58,
+    "versionName":  "2.4.2-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "de9cca4d9c008b0c403f676d0bf3a4a72fa8ba8f2e28cc24ced3ea92a6bcf6ec",
-    "notes":  "Téléphone : nouvel accueil Films/Séries (bandeau qui défile tout seul, avec sa jauge), nouvelles pages film et série, groupes du Direct en pastilles."
+    "sha256":  "d1ffe0e06adf89d1058a7dc9e25d1bb2ef7d577e5910b28cad7c8f4320d79498",
+    "notes":  "Téléphone : nouvel accueil Films/Séries (bandeau qui défile tout seul avec sa jauge, une fois tout chargé), nouvelles pages film et série, groupes du Direct en pastilles."
 }
