@@ -1,7 +1,7 @@
 {
-    "versionCode":  50,
-    "versionName":  "2.2.3-dev",
+    "versionCode":  51,
+    "versionName":  "2.2.4-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "ca06f9c77d34b53f7d92b27bb4fb24d1db416463e82e3977c24d4af5af847e8a",
-    "notes":  "Sports : la bonne chaîne française pour chaque match (guide TV officiel)."
+    "sha256":  "926c63ee5f112aa198bbe1c25dc70c4556693f375a09323facc65b6a74cb50d1",
+    "notes":  "Films et Séries : la bannière garde sa taille, le titre de la rangée reste visible."
 }
