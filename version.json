@@ -1,7 +1,7 @@
 {
-    "versionCode":  68,
-    "versionName":  "2.6.1-dev",
+    "versionCode":  69,
+    "versionName":  "2.6.2-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "8f4b3d0f449683253c7dcab6d9fbf66a337a14212af69acc00615f54db416d0c",
-    "notes":  "Téléphone : retour à l\u0027interface classique."
+    "sha256":  "c872e6cb694a7fbc2f52d18caef254df38d75d7b916f52b7e0fe3a2167d83e69",
+    "notes":  "Paramètres : Mes listes avec les chiffres et « Identifiants chiffrés », section Confidentialité vis-à-vis du FAI, taille du cache, même présentation que sur iPhone et PC."
 }
