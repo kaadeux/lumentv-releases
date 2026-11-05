@@ -1,7 +1,7 @@
 {
-    "versionCode":  66,
-    "versionName":  "2.5.0-dev",
+    "versionCode":  67,
+    "versionName":  "2.6.0-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "058d4e49e1b1df0b56a0130ca157fb766170e3f894b84d9f9b9005f84d7869a6",
-    "notes":  "Onglets Films et Séries ouverts en haut, affiches manquantes trouvées sur TMDB."
+    "sha256":  "e5f5940a0a0d0db4a79ba7ea465445a5b22ba4ae4657f8537d8df4c279b6e2a0",
+    "notes":  "Téléphone : nouvelle interface (celle de l\u0027iPhone) — accueil, fiches, recherche, sport, téléchargements ; l\u0027interface classique reste dans Plus."
 }
