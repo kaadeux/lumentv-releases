@@ -1,7 +1,7 @@
 {
-    "versionCode":  66,
-    "versionName":  "2.5.0",
+    "versionCode":  72,
+    "versionName":  "2.6.5",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "e7d3ad138a1f912b85fb735aa48193de7bbfe086d008865c4af5397687f21c79",
-    "notes":  "Onglets Films et Séries ouverts en haut, affiches manquantes trouvées sur TMDB."
+    "sha256":  "b858616c86332e022e863f6f1ad0b364a1fd3ea3694a1254b0de113cb23141c2",
+    "notes":  "Nouvelle présentation des Paramètres et des menus, identique sur la TV, le téléphone, le PC et l\u0027iPhone. Onglets du téléphone : Films, Séries, TV, Recherche, Plus. Quand une lecture échoue, l\u0027app dit si ça vient de la connexion, du serveur ou du flux. Contrôle parental, plusieurs listes, confidentialité vis-à-vis du FAI."
 }
