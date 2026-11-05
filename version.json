@@ -1,7 +1,7 @@
 {
-    "versionCode":  72,
-    "versionName":  "2.6.5-dev",
+    "versionCode":  73,
+    "versionName":  "2.6.6-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "6bc5591485da807840317a561890062736a9eb97b81d46b7a0d2943cfd818898",
-    "notes":  "Menus et fenêtres modernisés, identiques sur la TV, le téléphone, le PC et l\u0027iPhone."
+    "sha256":  "7f8d7baecbc43dec9d235134ca200dd70f31cb8aff999455f9509d1c27011c43",
+    "notes":  "Sécurité : le profil en ligne ne peut s\u0027ouvrir que sur un appareil qui a déjà sa propre liste."
 }
