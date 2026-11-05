@@ -1,7 +1,7 @@
 {
-    "versionCode":  69,
-    "versionName":  "2.6.2-dev",
+    "versionCode":  70,
+    "versionName":  "2.6.3-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "c872e6cb694a7fbc2f52d18caef254df38d75d7b916f52b7e0fe3a2167d83e69",
-    "notes":  "Paramètres : Mes listes avec les chiffres et « Identifiants chiffrés », section Confidentialité vis-à-vis du FAI, taille du cache, même présentation que sur iPhone et PC."
+    "sha256":  "73ee13f4db89324d86388bba33173fed03b4bb3cd81460feef34067e1347c487",
+    "notes":  "Paramètres identiques à l\u0027iPhone sur la TV et le téléphone. Quand une lecture échoue, l\u0027app dit si ça vient de ta connexion, du serveur du fournisseur ou du flux."
 }
