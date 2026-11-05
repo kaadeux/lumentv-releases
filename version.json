@@ -1,7 +1,7 @@
 {
-    "versionCode":  73,
-    "versionName":  "2.6.6-dev",
+    "versionCode":  74,
+    "versionName":  "2.6.7-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "7f8d7baecbc43dec9d235134ca200dd70f31cb8aff999455f9509d1c27011c43",
-    "notes":  "Sécurité : le profil en ligne ne peut s\u0027ouvrir que sur un appareil qui a déjà sa propre liste."
+    "sha256":  "219b5e3e09602977cea1b92b362f969464a564e226ab8644afa5bd2b16285886",
+    "notes":  "Nouvelle icône : le titre « lumenTV• »."
 }
