@@ -1,7 +1,7 @@
 {
-    "versionCode":  81,
-    "versionName":  "2.6.14",
+    "versionCode":  82,
+    "versionName":  "2.6.15",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "bd2570be08771516cbd8a4ffbbc3a424b839fac8c1fc673582bb9591c0a8140b",
-    "notes":  "Guide TV qui se recharge tout seul, qualité automatique plus fiable, menus modernisés"
+    "sha256":  "41ed978fda6d4623645503da8dfacc655d93563eec39b4e46275f02a345ba760",
+    "notes":  "Dates identiques partout, corrections et nettoyage"
 }
