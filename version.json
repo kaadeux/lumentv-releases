@@ -1,7 +1,7 @@
 {
-    "versionCode":  75,
-    "versionName":  "2.6.8-dev",
+    "versionCode":  76,
+    "versionName":  "2.6.9-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "1753e4ec55edb57fce95ad579ad00e7ecd1567ed99886612e48e26f496d17be3",
-    "notes":  "Paramètres : tous les réglages réunis sur la même page, avec toutes les langues et tous les choix."
+    "sha256":  "91592709115d053cc80bd9e3f77b25311b4cca3d238857a541baf90bc3f29d23",
+    "notes":  "Résumés, logos et notes : l\u0027app vérifie que TMDB parle bien du bon film, sur toutes les apps."
 }
