@@ -1,7 +1,7 @@
 {
-    "versionCode":  84,
-    "versionName":  "2.6.17-dev",
+    "versionCode":  85,
+    "versionName":  "2.6.18-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "de14ef1f9225e00c18f69884526070820fdbdbc1bbc5b2041606c8f32cfb9f8b",
-    "notes":  "Confidentialité : seuls les serveurs utilisés sont affichés"
+    "sha256":  "d10e6a208dc1e08e1f9c77c1fcb66f3e7e03c67ed5d3f7fd382fe2c1c1da149c",
+    "notes":  "Rangées TMDB plus fiables : nouvel essai si TMDB ne répond pas"
 }
