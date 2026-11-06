@@ -1,7 +1,7 @@
 {
-    "versionCode":  76,
-    "versionName":  "2.6.9-dev",
+    "versionCode":  78,
+    "versionName":  "2.6.11-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "91592709115d053cc80bd9e3f77b25311b4cca3d238857a541baf90bc3f29d23",
-    "notes":  "Résumés, logos et notes : l\u0027app vérifie que TMDB parle bien du bon film, sur toutes les apps."
+    "sha256":  "bbe462fa9de6bf4d60e12585a7b50bf5e5d33e90291ebae71adf1847329c52dd",
+    "notes":  "Résumés à jour (TMDB gardé un jour au lieu de 7), bouton Résumé sur la TV pour lire le texte en entier, Vider le cache vide aussi les réponses TMDB."
 }
