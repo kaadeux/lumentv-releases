@@ -1,7 +1,7 @@
 {
-    "versionCode":  79,
-    "versionName":  "2.6.12-dev",
+    "versionCode":  80,
+    "versionName":  "2.6.13-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "f00af89d9b185a7c6e15eff6400748fc42ce03caacb24221d9f47e6b6bcb6427",
-    "notes":  "Paramètres : une seule page pour toutes les apps."
+    "sha256":  "8813865f13330f26593dc277347c4c22aaa612eeaf401efc87131a52e2733895",
+    "notes":  "Qualité auto : retour fiable à la chaîne choisie"
 }
