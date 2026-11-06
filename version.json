@@ -1,7 +1,7 @@
 {
-    "versionCode":  74,
-    "versionName":  "2.6.7-dev",
+    "versionCode":  75,
+    "versionName":  "2.6.8-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "219b5e3e09602977cea1b92b362f969464a564e226ab8644afa5bd2b16285886",
-    "notes":  "Nouvelle icône : le titre « lumenTV• »."
+    "sha256":  "1753e4ec55edb57fce95ad579ad00e7ecd1567ed99886612e48e26f496d17be3",
+    "notes":  "Paramètres : tous les réglages réunis sur la même page, avec toutes les langues et tous les choix."
 }
