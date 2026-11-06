@@ -1,7 +1,7 @@
 {
-    "versionCode":  81,
-    "versionName":  "2.6.14-dev",
+    "versionCode":  82,
+    "versionName":  "2.6.15-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "6b463e75f5c709b76959226dd03c5f9f2dfb0cd2fecd2c741c5f8c2d3b74dea7",
-    "notes":  "Guide TV : se recharge tout seul, plus de programmes manquants"
+    "sha256":  "8e26a3a741ea60a5f710e2a0eb97f114c2fb444f494bf8d997dd1cc64f2e42de",
+    "notes":  "Nettoyage du code, dates identiques partout"
 }
