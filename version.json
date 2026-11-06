@@ -1,7 +1,7 @@
 {
-    "versionCode":  83,
-    "versionName":  "2.6.16-dev",
+    "versionCode":  84,
+    "versionName":  "2.6.17-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "9cc1f78d295a9e5fb8d1b2c6f87c45198a69c170c7a07c3c7000599038413c2f",
-    "notes":  "Sports : score lisible sur la carte sélectionnée"
+    "sha256":  "de14ef1f9225e00c18f69884526070820fdbdbc1bbc5b2041606c8f32cfb9f8b",
+    "notes":  "Confidentialité : seuls les serveurs utilisés sont affichés"
 }
