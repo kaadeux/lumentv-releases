@@ -1,7 +1,7 @@
 {
-    "versionCode":  74,
-    "versionName":  "2.6.7",
+    "versionCode":  81,
+    "versionName":  "2.6.14",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "de359659b02226a5e732d05ae32e8433b392b5a59a81eb89be90983e5bde1247",
-    "notes":  "Nouvelle icône : le titre « lumenTV• »."
+    "sha256":  "bd2570be08771516cbd8a4ffbbc3a424b839fac8c1fc673582bb9591c0a8140b",
+    "notes":  "Guide TV qui se recharge tout seul, qualité automatique plus fiable, menus modernisés"
 }
