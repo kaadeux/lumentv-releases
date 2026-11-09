@@ -1,7 +1,7 @@
 {
-    "versionCode":  84,
-    "versionName":  "2.6.17",
+    "versionCode":  88,
+    "versionName":  "2.6.21",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "f52dd4e477ed047dc606460a25a7c77c9214606478a5043c7701f42b2589e018",
-    "notes":  "Confidentialité : seuls les serveurs utilisés sont affichés"
+    "sha256":  "1232f3de28ffb51b5fb1f674d5137b769a5f857da5395b0ae0e656a1ec395a03",
+    "notes":  "Titres français, listes multilingues, groupes français d\u0027abord, confirmation avant de se déconnecter"
 }
