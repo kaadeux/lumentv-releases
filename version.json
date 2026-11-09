@@ -1,7 +1,7 @@
 {
-    "versionCode":  86,
-    "versionName":  "2.6.19-dev",
+    "versionCode":  87,
+    "versionName":  "2.6.20-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "fd245e1b682fc8719ca5c82b7fc25d8dde84282c2a7b720062a4ae69831e6d4d",
-    "notes":  "Listes multilingues : rangées TMDB et titres sans le préfixe de langue"
+    "sha256":  "739fc70d846435e8be34020b60327310e9b0f44929b30ac36a2e59ce1f1fcdbb",
+    "notes":  "Direct : groupes de chaînes en français d\u0027abord"
 }
