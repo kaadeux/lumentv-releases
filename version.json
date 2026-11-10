@@ -1,7 +1,7 @@
 {
-    "versionCode":  105,
-    "versionName":  "2.6.38-dev",
+    "versionCode":  106,
+    "versionName":  "2.6.39-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "149f2c3f3f924e8d30e3aecf222d34d0615aa790ca79fa458a0e37f07e465409",
-    "notes":  "Historique : noms et épisodes plus lisibles"
+    "sha256":  "cdee809850f0b43760008881cc4280f5f17a7e8e1cca9d705eae4c57b64929b5",
+    "notes":  "Historique gardé quand une liste est supprimée, et rattaché à la suivante"
 }
