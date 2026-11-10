@@ -1,7 +1,7 @@
 {
-    "versionCode":  98,
-    "versionName":  "2.6.31-dev",
+    "versionCode":  99,
+    "versionName":  "2.6.32-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "f049289f2bf245193f9a5f17ad73fc4528c9f02eddcb7192f4808f035d0645a0",
-    "notes":  "Sports : filtre « Équipes nationales » (foot et rugby), tous les matchs entre nations selon les filtres"
+    "sha256":  "56f6e0c2f638386d2ab8b3ead48ec7cd235c54e7c6ac25b876bfb5e84bdf9cc4",
+    "notes":  "Sports : filtre Équipe en deux catégories (Clubs, Nations), tous les clubs des compétitions même pendant la trêve"
 }
