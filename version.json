@@ -1,7 +1,7 @@
 {
-    "versionCode":  88,
-    "versionName":  "2.6.21",
+    "versionCode":  92,
+    "versionName":  "2.6.25",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "1232f3de28ffb51b5fb1f674d5137b769a5f857da5395b0ae0e656a1ec395a03",
-    "notes":  "Titres français, listes multilingues, groupes français d\u0027abord, confirmation avant de se déconnecter"
+    "sha256":  "55a095163a726c26594d4b89ede1b5a70348ccd5591a88c4d8e2dfbc61cad938",
+    "notes":  "Versions nommées, durée des films fiable, très grosses listes plus rapides et sans plantage"
 }
