@@ -1,7 +1,7 @@
 {
-    "versionCode":  92,
-    "versionName":  "2.6.25-dev",
+    "versionCode":  95,
+    "versionName":  "2.6.28-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "eebe1f0f4e5a1b4c052cc20c2ef9c08899907052f5646c146fc8851257e1c308",
-    "notes":  "Durée des films plus fiable"
+    "sha256":  "c235947ffb48a339cf265b1ff55091ba7b39ff9bba5898f1c2a2efd820ed06cb",
+    "notes":  "Barre de progression au chargement d\u0027une liste ; onglets toujours affichés ; directs ouverts sur la première catégorie française"
 }
