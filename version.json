@@ -1,7 +1,7 @@
 {
-    "versionCode":  90,
-    "versionName":  "2.6.23-dev",
+    "versionCode":  91,
+    "versionName":  "2.6.24-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "33b819916f9da363448beda8cf7f045dcc0328d39ef67709a1b43f55995f23bb",
-    "notes":  "TV : plus de plantage avec une très grosse liste"
+    "sha256":  "c5355d21b8a971548d015581fdd8035fc588ebd4a8f610b51126dfef316ac7c2",
+    "notes":  "Films et Séries plus rapides avec une très grosse liste"
 }
