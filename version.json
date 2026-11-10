@@ -1,7 +1,7 @@
 {
-    "versionCode":  102,
-    "versionName":  "2.6.35",
+    "versionCode":  103,
+    "versionName":  "2.6.36",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "7449027e8e66b09eaf8e4274421a7a78c8b513bedb4b258b9201177582bbd41a",
-    "notes":  "Rapports de plantage automatiques (aucune donnée personnelle)"
+    "sha256":  "59c1abba50d9e69522c57e5134a5cdd3197a0b11ff6103bb5536234a3a7986eb",
+    "notes":  "Séries : nouveaux épisodes de vos séries avec pastille ; Films : pour continuer vos sagas"
 }
