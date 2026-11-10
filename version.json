@@ -1,7 +1,7 @@
 {
-    "versionCode":  107,
-    "versionName":  "2.6.40-dev",
+    "versionCode":  108,
+    "versionName":  "2.6.41-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "061c770715d7ff11a8bb6a0fb42fa9ac792140de1dc5dbb338928bc4656e2dc3",
-    "notes":  "Historique mis de côté sauvegardé dans le profil en ligne"
+    "sha256":  "67a7e37ce8bd8507d3f48687760479c1c4fec901d827ae812f92c6aeb54cee79",
+    "notes":  "Directs refusés (513) corrigés : espaces en trop autour de l\u0027identifiant"
 }
