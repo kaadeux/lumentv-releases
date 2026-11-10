@@ -1,7 +1,7 @@
 {
-    "versionCode":  104,
-    "versionName":  "2.6.37",
+    "versionCode":  105,
+    "versionName":  "2.6.38",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "dfd4704552d9b305884317ec5a48efb4c8203edcb1a51072a523f9295afc5618",
-    "notes":  "Un même film n\u0027apparaît plus plusieurs fois (copies TOP, 4K)"
+    "sha256":  "20310924bd6ff920f3dcb413455aaa8aa2d8a0c7b6d563f7369c554366aa510b",
+    "notes":  "Historique : noms et épisodes plus lisibles"
 }
