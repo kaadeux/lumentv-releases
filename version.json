@@ -1,7 +1,7 @@
 {
-    "versionCode":  97,
-    "versionName":  "2.6.30",
+    "versionCode":  99,
+    "versionName":  "2.6.32",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "f1f38a08113a0f163b2e91dfa8138d50b045e4e75507880a878a6a11d8945324",
-    "notes":  "Barre de progression au chargement ; onglets toujours affichés ; directs ouverts sur la première catégorie française ; matchs de l\u0027équipe de France et du XV de France ; onglet Sports beaucoup plus rapide"
+    "sha256":  "d825ae06a5bedead765ec6351f6112d3b81d379f7d85e9de989727ad4efceece",
+    "notes":  "Barre de progression au chargement ; directs ouverts sur la première catégorie française ; Sports : équipes nationales, filtre Clubs / Nations, beaucoup plus rapide"
 }
