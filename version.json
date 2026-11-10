@@ -1,7 +1,7 @@
 {
-    "versionCode":  97,
-    "versionName":  "2.6.30-dev",
+    "versionCode":  98,
+    "versionName":  "2.6.31-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "3264c895966e606fbbb65c273db687b536a515ed62a945deb8c7c1b976a6fc6e",
-    "notes":  "Onglet Sports beaucoup plus rapide sur une grosse liste ; matchs des Bleus ; barre de progression"
+    "sha256":  "f049289f2bf245193f9a5f17ad73fc4528c9f02eddcb7192f4808f035d0645a0",
+    "notes":  "Sports : filtre « Équipes nationales » (foot et rugby), tous les matchs entre nations selon les filtres"
 }
