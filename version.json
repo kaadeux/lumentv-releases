@@ -1,7 +1,7 @@
 {
-    "versionCode":  108,
-    "versionName":  "2.6.41",
+    "versionCode":  109,
+    "versionName":  "2.6.42",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "3a1a465ec91cffcc53b4b6e354f8db36b0dd5a70f1e012e1b8d93348189776c6",
-    "notes":  "Directs refusés (513) corrigés : espaces en trop autour de l\u0027identifiant"
+    "sha256":  "acf79bbf6c925b2d31578db8e45fb6157ab9ca507100af493bd291fde869222e",
+    "notes":  "Plus de fausse alerte « autre écran » juste après avoir arrêté une lecture."
 }
