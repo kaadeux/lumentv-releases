@@ -1,7 +1,7 @@
 {
-    "versionCode":  100,
-    "versionName":  "2.6.33-dev",
+    "versionCode":  101,
+    "versionName":  "2.6.34-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "fa9851e33daa32ce5c96949ad0f7954f7a8fcceacbcddb5c4c9d1572d80aaa6f",
-    "notes":  "Recherche corrigée : séries Netflix et anglaises retrouvées (FROM), titre demandé en tête, beaucoup plus rapide"
+    "sha256":  "b22338633bacecde056cf249e70bfc3b94eafe8702280acbace8a22294b9a559",
+    "notes":  "Rapports de plantage automatiques (aucune donnée personnelle)"
 }
