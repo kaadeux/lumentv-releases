@@ -1,7 +1,7 @@
 {
-    "versionCode":  101,
-    "versionName":  "2.6.34",
+    "versionCode":  102,
+    "versionName":  "2.6.35",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "a08d5e6282a8717dd718f45a952b29aef30ee6353a33f257a0a259e0b3e14f4f",
+    "sha256":  "7449027e8e66b09eaf8e4274421a7a78c8b513bedb4b258b9201177582bbd41a",
     "notes":  "Rapports de plantage automatiques (aucune donnée personnelle)"
 }
