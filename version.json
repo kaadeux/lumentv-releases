@@ -1,7 +1,7 @@
 {
-    "versionCode":  99,
-    "versionName":  "2.6.32",
+    "versionCode":  100,
+    "versionName":  "2.6.33",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "d825ae06a5bedead765ec6351f6112d3b81d379f7d85e9de989727ad4efceece",
-    "notes":  "Barre de progression au chargement ; directs ouverts sur la première catégorie française ; Sports : équipes nationales, filtre Clubs / Nations, beaucoup plus rapide"
+    "sha256":  "c5c306e73f81d00c005012cc5d87f8e573ddf0d016d069306a88126be12f393e",
+    "notes":  "Recherche corrigée : séries Netflix et anglaises retrouvées (FROM), titre demandé en tête, beaucoup plus rapide"
 }
