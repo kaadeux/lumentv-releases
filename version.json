@@ -1,7 +1,7 @@
 {
-    "versionCode":  89,
-    "versionName":  "2.6.22-dev",
+    "versionCode":  90,
+    "versionName":  "2.6.23-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "1ace97ce2b3bf2ea70b1ec16c0f6d84bf3fe8b23de8a232874939d71f9fdf931",
-    "notes":  "Versions d\u0027un film nommées (Français, Anglais, 4K…), le français d\u0027abord"
+    "sha256":  "33b819916f9da363448beda8cf7f045dcc0328d39ef67709a1b43f55995f23bb",
+    "notes":  "TV : plus de plantage avec une très grosse liste"
 }
