@@ -1,7 +1,7 @@
 {
-    "versionCode":  99,
-    "versionName":  "2.6.32-dev",
+    "versionCode":  100,
+    "versionName":  "2.6.33-dev",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/dev/LumenTV.apk",
-    "sha256":  "56f6e0c2f638386d2ab8b3ead48ec7cd235c54e7c6ac25b876bfb5e84bdf9cc4",
-    "notes":  "Sports : filtre Équipe en deux catégories (Clubs, Nations), tous les clubs des compétitions même pendant la trêve"
+    "sha256":  "fa9851e33daa32ce5c96949ad0f7954f7a8fcceacbcddb5c4c9d1572d80aaa6f",
+    "notes":  "Recherche corrigée : séries Netflix et anglaises retrouvées (FROM), titre demandé en tête, beaucoup plus rapide"
 }
