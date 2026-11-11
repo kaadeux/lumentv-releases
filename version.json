@@ -1,7 +1,7 @@
 {
-    "versionCode":  110,
-    "versionName":  "2.6.43",
+    "versionCode":  111,
+    "versionName":  "2.6.44",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "95f9b7f6691b75e7970b9c2a461c2641012a8587942d1213b4fb5045293224a5",
-    "notes":  "Nouveau : « Tout voir » sur chaque rangée des films et séries, avec des tris (Populaires, Plus récents, Mieux notés). Séries étrangères mieux trouvées sur les plateformes."
+    "sha256":  "230c56d96ffadbcbc4d3655210e86c6f46d837e3d8eaa9e71eeef58c710527d8",
+    "notes":  "Plus de films et séries dans les rangées : les titres que votre liste nomme en anglais sont maintenant retrouvés partout."
 }
