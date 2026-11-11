@@ -1,7 +1,7 @@
 {
-    "versionCode":  114,
-    "versionName":  "2.6.47",
+    "versionCode":  115,
+    "versionName":  "2.6.48",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "db8788e1a13432eec8224d48b74c618d53b7296b4da143cd73616ae5fce11f7f",
-    "notes":  "Recherche : la version française d\u0027une série passe avant la copie anglaise (One Piece), et les séries homonymes d\u0027années différentes apparaissent toutes les deux."
+    "sha256":  "984373b71ed2761c07750bf6b5e9a5f74346053e4d081827c1bf71261863b5f9",
+    "notes":  "Films et séries : la version française passe toujours en premier dans la recherche et les fiches, devant les copies sans langue indiquée (TOP, NF, AMZ…)."
 }
