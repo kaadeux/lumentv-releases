@@ -1,7 +1,7 @@
 {
-    "versionCode":  111,
-    "versionName":  "2.6.44",
+    "versionCode":  112,
+    "versionName":  "2.6.45",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "230c56d96ffadbcbc4d3655210e86c6f46d837e3d8eaa9e71eeef58c710527d8",
-    "notes":  "Plus de films et séries dans les rangées : les titres que votre liste nomme en anglais sont maintenant retrouvés partout."
+    "sha256":  "57e97752e1f3c5d8fe0c9bfa98e732ae24e037a26f89978a09940b742e312cf8",
+    "notes":  "Films et Séries s\u0027affichent beaucoup plus vite au démarrage (environ 4 s au lieu de 20 sur la TV)."
 }
