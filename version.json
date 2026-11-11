@@ -1,7 +1,7 @@
 {
-    "versionCode":  115,
-    "versionName":  "2.6.48",
+    "versionCode":  116,
+    "versionName":  "2.6.49",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "984373b71ed2761c07750bf6b5e9a5f74346053e4d081827c1bf71261863b5f9",
-    "notes":  "Films et séries : la version française passe toujours en premier dans la recherche et les fiches, devant les copies sans langue indiquée (TOP, NF, AMZ…)."
+    "sha256":  "5af057a7728f6f878497fb7253e43b7c367328ce0509e2a820ac832fd12eb5dc",
+    "notes":  "Films et séries s\u0027ouvrent en version française ; bouton Version pour les séries ; Ajoutés récemment montre chaque titre une fois, en français quand il existe."
 }
