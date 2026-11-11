@@ -1,7 +1,7 @@
 {
-    "versionCode":  113,
-    "versionName":  "2.6.46",
+    "versionCode":  114,
+    "versionName":  "2.6.47",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "266202a1ac84a3435ff3a6e79f2aaa6ee69395d043db328a5dbc8b16a4308a9b",
-    "notes":  "Films : les matchs de sport ne remplissent plus « Ajoutés récemment »."
+    "sha256":  "db8788e1a13432eec8224d48b74c618d53b7296b4da143cd73616ae5fce11f7f",
+    "notes":  "Recherche : la version française d\u0027une série passe avant la copie anglaise (One Piece), et les séries homonymes d\u0027années différentes apparaissent toutes les deux."
 }
