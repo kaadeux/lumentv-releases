@@ -1,7 +1,7 @@
 {
-    "versionCode":  112,
-    "versionName":  "2.6.45",
+    "versionCode":  113,
+    "versionName":  "2.6.46",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "57e97752e1f3c5d8fe0c9bfa98e732ae24e037a26f89978a09940b742e312cf8",
-    "notes":  "Films et Séries s\u0027affichent beaucoup plus vite au démarrage (environ 4 s au lieu de 20 sur la TV)."
+    "sha256":  "266202a1ac84a3435ff3a6e79f2aaa6ee69395d043db328a5dbc8b16a4308a9b",
+    "notes":  "Films : les matchs de sport ne remplissent plus « Ajoutés récemment »."
 }
