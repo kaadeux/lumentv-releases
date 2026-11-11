@@ -1,7 +1,7 @@
 {
-    "versionCode":  109,
-    "versionName":  "2.6.42",
+    "versionCode":  110,
+    "versionName":  "2.6.43",
     "apk":  "https://raw.githubusercontent.com/kaadeux/lumentv-releases/main/LumenTV.apk",
-    "sha256":  "acf79bbf6c925b2d31578db8e45fb6157ab9ca507100af493bd291fde869222e",
-    "notes":  "Plus de fausse alerte « autre écran » juste après avoir arrêté une lecture."
+    "sha256":  "95f9b7f6691b75e7970b9c2a461c2641012a8587942d1213b4fb5045293224a5",
+    "notes":  "Nouveau : « Tout voir » sur chaque rangée des films et séries, avec des tris (Populaires, Plus récents, Mieux notés). Séries étrangères mieux trouvées sur les plateformes."
 }
